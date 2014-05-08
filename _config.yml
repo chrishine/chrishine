@@ -1,0 +1,9 @@
+markdown: rdiscount
+permalink: /:year/:month/:day/:title/
+url: http://chrishine.github.com
+author: 色
+pygments: true
+safe: false
+paginate: 16
+auto: true
+
