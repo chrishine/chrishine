@@ -1,9 +1,0 @@
-markdown: rdiscount
-permalink: /:year/:month/:day/:title/
-url: http://chrishine.github.io
-author: 色
-pygments: true
-safe: false
-paginate: 16
-auto: true
-
