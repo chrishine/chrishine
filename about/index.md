@@ -17,7 +17,7 @@ comments: false
 
 * 新浪微博: [http://weibo.com/seqingzi](http://weibo.com/seqingzi )
 
-* 推: [https://twitter.com/chrishine](https://twitter.com/chrishine )
+* 推: [https://twitter.com/chrishineleo](https://twitter.com/chrishineleo )
 
 ---
 
