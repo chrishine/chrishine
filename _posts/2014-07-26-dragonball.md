@@ -3,7 +3,7 @@ layout: post
 title: "龙珠:1/2的故事"
 description: ""
 category: comic
-tags: [comic]
+tags: [Comic]
 ---
 
 
